@@ -1,3 +1,4 @@
 КЛЮЧ_1
 КЛЮЧ_2
 VIP_USER_777
+YaSigma
